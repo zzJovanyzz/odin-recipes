@@ -1,0 +1,2 @@
+This is a web index page for recipes. The goal of this project is to demonstrate basic git/ github abilities as well as demonstrate
+some of the basic HTML i have learned thus far. This page will most likely include links along with some type of images.git
